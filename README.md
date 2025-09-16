@@ -56,20 +56,23 @@ Untuk menjalankan notebook analisis ini di lingkungan lokal Anda, ikuti langkah-
 Bash
 
 git clone https://github.com/[Username-Anda]/[Nama-Repo-Anda].git
+
 2. **Pindah ke direktori proyek:**
 
 Bash
 
 cd [Nama-Repo-Anda]
+
 3. **Install library yang dibutuhkan:**
 
 Bash
 
 pip install pandas matplotlib seaborn jupyter
-4. **Jalankan Jupyter Notebook:
-**
+
+4. **Jalankan Jupyter Notebook:**
 Bash
 
 jupyter notebook
-Buka file Proyek_Analisis_Data.ipynb dan jalankan sel-sel di dalamnya.
+
+5. Buka file Proyek_Analisis_Data.ipynb dan jalankan sel-sel di dalamnya.
 
